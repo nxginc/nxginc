@@ -1,7 +1,27 @@
-- 👋 Hi, I’m @nxginc
+# 👋 Hi, I’m @nxginc
 
+Welcome to the official GitHub of **NXG Inc.** — a forward-thinking enterprise specializing in innovative construction, coatings, and technology solutions.
 
-<!---
-nxginc/nxginc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Us
+
+At NXG Inc., we're building more than just infrastructure — we're building the future. With a growing portfolio of companies including:
+- 🏢 **NXG Group** – Unifying our divisions under a powerful digital and operational ecosystem.
+- 🏗️ **NXG Construction Inc.** – Commercial & residential contracting with a focus on quality and efficiency.
+- 🎨 **NXG Coatings Inc.** – Industry-leading paint and coating services with premium finishes.
+- 🧰 **NXG Exteriors** – Exterior solutions for a durable and standout presence.
+
+## 🧩 What We’re Working On
+
+- Launching new tools for ** construction management **
+- Enhancing our internal APIs and automations across divisions
+
+## 📫 Contact Us
+
+📍 Wayzata, MN | Edina,MN | Las Vegas, NV
+📧 info@xgenterprise 
+📞 952-900-4222  
+🌐 [www.nxgenterprise.com](https://www.nxgenterprise.com)
+
+## 🤝 Let's Collaborate
+
+We're always open to partnerships, dealer opportunities, and talented contributors. Feel free to fork, star, or contact us to get involved.
