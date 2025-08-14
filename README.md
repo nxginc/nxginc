@@ -5,10 +5,7 @@ Welcome to the official GitHub of **NXG Inc.** — a forward-thinking enterprise
 ## 🚀 About Us
 
 At NXG Inc., we're building more than just infrastructure — we're building the future. With a growing portfolio of companies including:
-- 🏢 **NXG Group** – Unifying our divisions under a powerful digital and operational ecosystem.
-- 🏗️ **NXG Construction Inc.** – Commercial & residential contracting with a focus on quality and efficiency.
-- 🎨 **NXG Coatings Inc.** – Industry-leading paint and coating services with premium finishes.
-- 🧰 **NXG Exteriors** – Exterior solutions for a durable and standout presence.
+
 
 
 ## 📫 Contact Us
